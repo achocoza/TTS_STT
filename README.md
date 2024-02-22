@@ -28,9 +28,8 @@ VoxForge: A free speech corpus and acoustic models for open-source speech recogn
 WebRTC VAD: A Voice Activity Detector (VAD) library, using MATLABS.
 Soniox: A cloud-based speech recognition service.
 AssemblyAI: A powerful API for transcribing audio to text.
-![image](https://github.com/achocoza/TTS_STT/assets/933022/7141a3b7-f0d1-4c1f-8d58-d978a7c3b3e9)
 
-Speech To Text (STT) Tools:![image](https://github.com/achocoza/TTS_STT/assets/933022/f0fe7d1d-a909-4925-8ce7-9197d1924909)
+Speech To Text (STT) Tools:
 
 Amazon Transcribe: Uses a deep learning process called automatic speech recognition (ASR) to convert speech to text quickly and accurately.
 Speechmatics: Offers a highly accurate, low latency ASR system for converting speech into text.
@@ -47,10 +46,10 @@ VoxForge: A free speech corpus and acoustic models for open-source speech recogn
 WebRTC VAD: A Voice Activity Detector (VAD) library, using MATLABS.
 Soniox: A cloud-based speech recognition service.
 AssemblyAI: A powerful API for transcribing audio to text.
-![image](https://github.com/achocoza/TTS_STT/assets/933022/01f30c47-a404-4554-a5bd-8149a80e0493)
 
 
-Aditional AI Tools![image](https://github.com/achocoza/TTS_STT/assets/933022/1c257f4d-ecec-4eea-8517-216380db63f6)
+
+Aditional AI Tools
 
 Mubert: https://mubert.com/ (Create music through text)
 Wavtool: https://wavtool.com/ (Create music with effects in the voice)
