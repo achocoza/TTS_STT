@@ -12,56 +12,26 @@ Advancements and Challenges: Discover the latest advancements in TTS and STT alg
 Use Cases and Applications: Explore diverse use cases, from virtual assistants and language learning platforms to transcription services and accessibility tools, showcasing the versatility of TTS and STT technologies.
 Networking and Discussion: Connect with fellow enthusiasts, exchange ideas, and engage in thought-provoking discussions on the future of AI-driven speech technologies.
 
-Speech To Text (STT) Tools:![image](https://github.com/achocoza/TTS_STT/assets/933022/7b2a05d9-5794-4e0d-a211-f66c947ad4f3)
-Amazon Transcribe: Uses a deep learning process called automatic speech recognition (ASR) to convert speech to text quickly and accurately.
-Speechmatics: Offers a highly accurate, low latency ASR system for converting speech into text.
-DeepSpeech by Mozilla: An open-source Speech-To-Text engine.
-Kaldi: A toolkit for speech recognition.
-CMU Sphinx: A group of speech recognition systems developed at Carnegie Mellon University.
-Julius: A high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers.
-Wit.ai: Provides APIs for Speech-To-Text conversion.
-Vosk: An offline open-source speech recognition toolkit.
-OpenSeq2Seq: A toolkit for sequence-to-sequence models implemented in TensorFlow.
-ESPnet: An end-to-end speech processing toolkit.
-NeMo: A toolkit for creating AI applications built around neural modules.
-VoxForge: A free speech corpus and acoustic models for open-source speech recognition engines.
-WebRTC VAD: A Voice Activity Detector (VAD) library, using MATLABS.
-Soniox: A cloud-based speech recognition service.
-AssemblyAI: A powerful API for transcribing audio to text.
+# Text To Speech (TTS) and Speech To Text (STT) Resources
 
-Speech To Text (STT) Tools:
+These articles may not necessarily focus on TTS and STT technologies, but they do mention these terms in their content.
 
-Amazon Transcribe: Uses a deep learning process called automatic speech recognition (ASR) to convert speech to text quickly and accurately.
-Speechmatics: Offers a highly accurate, low latency ASR system for converting speech into text.
-DeepSpeech by Mozilla: An open-source Speech-To-Text engine.
-Kaldi: A toolkit for speech recognition.
-CMU Sphinx: A group of speech recognition systems developed at Carnegie Mellon University.
-Julius: A high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers.
-Wit.ai: Provides APIs for Speech-To-Text conversion.
-Vosk: An offline open-source speech recognition toolkit.
-OpenSeq2Seq: A toolkit for sequence-to-sequence models implemented in TensorFlow.
-ESPnet: An end-to-end speech processing toolkit.
-NeMo: A toolkit for creating AI applications built around neural modules.
-VoxForge: A free speech corpus and acoustic models for open-source speech recognition engines.
-WebRTC VAD: A Voice Activity Detector (VAD) library, using MATLABS.
-Soniox: A cloud-based speech recognition service.
-AssemblyAI: A powerful API for transcribing audio to text.
+## Text To Speech (TTS) Articles
 
+1. BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data
+2. Largest text-to-speech AI model yet shows ’emergent abilities’
+3. Conventional and contemporary approaches used in text to speech
+4. Best text-to-speech software of 2024 | TechRadar
+5. Text-to-Speech Synthesis: an Overview | by Sciforce - Medium
+6. NaturalSpeech: End-to-End Text to Speech Synthesis with ...
 
+## Speech To Text (STT) Articles
 
-Aditional AI Tools
+1. Decoding State Street Corporation (STT): A Strategic SWOT Insight
+2. Here's Why State Street Corporation (STT) is a Strong Value Stock
+3. State Street Corporation Common Stock (STT) - Nasdaq
+4. Speech to Text: Convert or Transcribe Audio to Text | IBM Watson
+5. Speech-to-Text: Automatic Speech Recognition | Google Cloud
+6. Speech-to-Text - Transcribe Audio | Microsoft Azure
 
-Mubert: https://mubert.com/ (Create music through text)
-Wavtool: https://wavtool.com/ (Create music with effects in the voice)
-Luma labs https://lumalabs.ai/ (Convert multidimensional objects)
-Compose ai https://www.compose.ai/ 
-Usechatgpt AI https://www.usechatgpt.ai/ 
-Leia Pix https://convert.leiapix.com/ 
-Blocklade labs https://www.blockadelabs.com/ 
-Tome https://tome.app/ 
-Wisecut https://www.wisecut.video/ 
-Clipchamp https://clipchamp.com/es/ 
-Flawlees https://www.flawlessai.com/ 
-Humata: https://www.humata.ai/ 
-ChatPDF AI https://www.chatpdf.com/
-![image](https://github.com/achocoza/TTS_STT/assets/933022/f6279ad8-379e-4085-b607-4bcff99eecdc)
+Please note that these articles may not necessarily focus on Text To Speech (TTS) and Speech To Text (STT) technologies, but they do mention these terms in their content. Happy reading! 📚
